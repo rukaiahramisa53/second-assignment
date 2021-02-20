@@ -1,3 +1,9 @@
+body{
+    color: rgb(54,57,88);
+    font-family: 'Oswald', sans-serif;
+    
+}
+
 header{
     background-color:#ebdfde;
 } 
@@ -67,4 +73,7 @@ main section.container{
         max-width:150px !important;
 
     }
+}
+h1{
+    font-size: 50px;
 }
